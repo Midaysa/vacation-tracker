@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-v%6b2d@c1g0qla1%-iqh4iih=k9cj!x%r46&r6b(9z(-c!k_kw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'vacation-tracker-app.herokuapp.com']
 
 
 # Application definition
